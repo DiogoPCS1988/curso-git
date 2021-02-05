@@ -1,0 +1,32 @@
+body {
+     background-color: blue;
+}
+
+.row {
+    height: 10px;
+    width: 100%;
+}
+
+.col {
+    height: 50px;
+}
+
+.row {
+    display: flex;
+}
+
+.col{
+    width: 50%;
+}
+
+div .p {
+    background-color: red;
+}
+
+#div1 {
+    color: blue;
+}
+
+#div1 .row {
+    color: black;
+}
